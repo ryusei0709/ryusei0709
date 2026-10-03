@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there, I'm Ryusei 👋
 
-<!--
-**ryusei0709/ryusei0709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Web Developer** from Japan, currently based in **Montreal, Canada** 🇨🇦.
 
-Here are some ideas to get you started:
+I have around **5 years of professional experience in web development**, working mainly with **TypeScript, React, Next.js, Node.js, Ruby on Rails, and PHP/Laravel**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building reliable and user-friendly web applications across both frontend and backend systems.
+
+## 👨‍💻 About Me
+
+- 💻 Full-Stack Web Developer with 5 years of experience
+- 🇯🇵 Originally from Japan
+- 🇨🇦 Currently living in Montreal, Canada
+- 🔭 Experienced in frontend, backend, APIs, databases, and cloud infrastructure
+
+## 🛠 Tech Stack
+
+### Frontend
+
+- TypeScript
+- JavaScript
+- React
+- Next.js
+- HTML / CSS
+
+### Backend
+
+- Ruby on Rails
+- PHP / Laravel
+- Node.js
+- NestJS
+- GraphQL
+- REST APIs
+
+### Database
+- MySQL
+- PostgreSQL
+- Prisma
+- TypeORM
+
+### Cloud & DevOps
+- AWS
+- CloudFormation
+- CodePipeline
+- Docker
+- GitHub Actions
+
+## 💼 Experience
+
+I've worked on various web applications, including:
+
+- Building and maintaining full-stack web applications
+- Developing APIs with Rails, GraphQL, and REST
+- Building frontend applications with React and Next.js
+- Implementing authentication and authorization
+- Improving SEO through site structure, metadata, internal linking, structured data, and sitemap generation
+- Maintaining AWS infrastructure and CI/CD pipelines
+- Developing internal tools and analytics features
