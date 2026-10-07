@@ -50,7 +50,7 @@ I enjoy building reliable and user-friendly web applications across both fronten
 I've worked on various web applications, including:
 
 - Building and maintaining full-stack web applications
-- Developing APIs with Rails, GraphQL, and REST
+- Developing REST and GraphQL APIs with Ruby on Rails and Laravel
 - Building frontend applications with React and Next.js
 - Implementing authentication and authorization
 - Improving SEO through site structure, metadata, internal linking, structured data, and sitemap generation
